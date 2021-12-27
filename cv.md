@@ -9,21 +9,25 @@ Russia, Kemerovo, Leningradskiy Avenue 47b apt. 52. Tel .: + 7 -913-123-36-67
 • Good command of JavaScript, TypeScript, HTML hypertext markup language, CSS style sheet language.
 • I have a good command of the React.js framework (I mostly write and study on it now).
 • Experience in writing unit tests, test-driven development - TDD.
-• Little experience in developing sites on CMS WordPress and Osclass Evolution using MySQL databases.
+• Little experience in developing sites on CMS WordPress ing MySQL databases.
 
-### An example of my code React.js
 
+
 ```JavaScript
 import React from 'react';
 
  create sequence hibernate_sequence start with 1 increment by 1;
+.,,
+,
+';
 
  create table matrix_types
   (
     id   int8 identity,
-    name varchar(255) unique,
+    name varchar(253) unique,
     primary key (id)
   );
+
 
  create table matrices
   (
@@ -35,6 +39,9 @@ import React from 'react';
     visible boolean default(false),
     primary key (id)
   );
+тб
+,,.
+,..??>><.,,??><<.,
 
  create table baked_frames
   (
@@ -47,7 +54,7 @@ import React from 'react';
     id_in_1c varchar(15) unique
   );
 
-
+
 
 © 2020 GitHub, Inc.
 ```
