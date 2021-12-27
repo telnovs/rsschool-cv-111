@@ -1,19 +1,13 @@
 
-
 #Telnov Sergey #
 
-### My contacts:
+My contacts:
 Russia, Kemerovo, Leningradskiy Avenue 47b apt. 52. Tel .: + 7 -913-123-36-67
 
-### Hard skills
-• Good command of JavaScript, TypeScript, HTML hypertext markup language, CSS style sheet language.
-• I have a good command of the React.js framework (I mostly write and study on it now).
-• Experience in writing unit tests, test-driven development - TDD.
-• Little experience in developing sites on CMS WordPress and Osclass Evolution using MySQL databases.
+Hard skills
+• Good command of JavaScript, TypeScript, HTML hypertext markup language, CSS style sheet language. • I have a good command of the React.js framework (I mostly write and study on it now). • Experience in writing unit tests, test-driven development - TDD. • Little experience in developing sites on CMS WordPress and Osclass Evolution using MySQL databases.
 
-### An example of my code React.js
-
-```JavaScript
+An example of my code React.js
 import React from 'react';
 
  create sequence hibernate_sequence start with 1 increment by 1;
@@ -50,23 +44,17 @@ import React from 'react';
 
 
 © 2020 GitHub, Inc.
-```
-
-### Work experience
-
+Work experience
 There is no large commercial development experience (I made a couple of sites on Wordpress, made minor edits to the application on React.js)
 
-At the moment I am finishing my studies at it-incubator.by and started a course on JavaScript on the RS School platform,  read articles on https://learn.javascript.ru
+At the moment I am finishing my studies at it-incubator.by and started a course on JavaScript on the RS School platform, read articles on https://learn.javascript.ru
 
 I practice the acquired knowledge on educational projects, solve tasks at https://www.codewars.com
 
-GitHub -  https://github.com/telnovs
-
+GitHub - https://github.com/telnovs
 
 ###Education
 
-FSBEI HE Kemerovo State Agricultural Institute
-economic, state and municipal administration
+FSBEI HE Kemerovo State Agricultural Institute economic, state and municipal administration
 
-#### Level of English - A1
-
+Level of English - A1
